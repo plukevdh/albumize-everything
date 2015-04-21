@@ -3,6 +3,9 @@
 require "bundler/setup"
 require "./lib/albumize"
 
+@album = AlbumFiles.new "Sufjan"
+@stats = AlbumStats.new @album
+
 require "pry"
 Pry.start
 
