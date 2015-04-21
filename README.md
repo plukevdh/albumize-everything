@@ -2,7 +2,7 @@
 
 An Everything Everything Man Alive programatic album cover generator
 
-![Man Alive](http://d.pr/i/sVQA)
+![Man Alive](http://d.pr/i/sVQA+)
 
 ## Installation
 
