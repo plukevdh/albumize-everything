@@ -1,5 +1,8 @@
 require 'ruby-audio'
 
+# Much of the frame calculation code used and modified from
+# https://github.com/benalavi/waveform
+
 class Song
   def initialize(path)
     @path = path
